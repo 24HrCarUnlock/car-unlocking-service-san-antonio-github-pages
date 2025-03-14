@@ -1,1 +1,7 @@
 theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: [San Antonio’s Reliable Car Unlocking Specialists – Fast, Secure & Damage-Free Service]
+description: [Fast, Secure & Damage-Free Entry]
